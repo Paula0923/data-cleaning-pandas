@@ -1,7 +1,35 @@
 Questions/ Problems/ Observations
 
-•	Compared to excel file: Columns K, L, M are missing, how and why? 	When called for (see below) K and M are there; L not because it is 	not named (what does this column mean? Seems to be categorical data 	N/Y
+•	Compared to excel file: Columns K, L, M are missing in Jupyter 	display, how and why? When called for (see below) K and M are there; L not because it is not named (what does this column mean? Seems to be categorical data N/Y
+
+•	And the other way round: In excel file: the last 8 columns that are displayed in Jupyter I cannot see in Excel
 
 •	Should we translate the colours from Excel to a column?
 
 •	Last 25 rows are NaNs
+
+•	Column "Case Number" and "Case Number.1" Always the same data? Then 	delete one of them
+
+•	Columns "Unnamed:21" and "Unnamed:22" are completely empty? Delete 	both
+
+•	date Format Needs to be synchronized
+
+•	introduce Country codes
+
+•	column "Year" can be deleted if year Always in date or otherwise include year in date and then delete "Year"
+
+•	categorize activities? Surfing, Diving, Swimming, "other Sports acitivities", Fishing/Spearfishing, Wading, Boat/Kayak, SUP/Body Boarding, "other" (better than this)
+
+•	Shark species? really messy, should we try to categorize this?
+
+•	unprovoked/provoked: weird column
+
+• 	Maybe take out of analysis?: "Questionable incidents - Incidents in which there are insufficient data to determine if the injury was caused by a shark or the person drowned and the body was later scavenged by sharks. In a few cases, despite media reports to the contrary, evidence indicated there was no shark involvement whatsoever. Such incidents are in blue."
+
+Maybe interesting objectives:
+- age when attacked
+- time: i.e. which month in which area?
+- activity during attack
+- tendencies: increased attack in certain areas over the years?
+- if we clean species: which species are more responsible for attacks? and where?
+
