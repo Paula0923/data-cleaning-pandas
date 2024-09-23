@@ -1,0 +1,7 @@
+Questions/ Problems/ Observations
+
+•	Compared to excel file: Columns K, L, M are missing, how and why? 	When called for (see below) K and M are there; L not because it is 	not named (what does this column mean? Seems to be categorical data 	N/Y
+
+•	Should we translate the colours from Excel to a column?
+
+•	Last 25 rows are NaNs
