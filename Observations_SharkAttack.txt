@@ -1,22 +1,21 @@
 Questions/ Problems/ Observations
 
-•	Compared to excel file: Columns K, L, M are missing in Jupyter 	display, how and why? When called for (see below) K and M are there; L not because it is not named (what does this column mean? Seems to be categorical data N/Y
-
-•	And the other way round: In excel file: the last 8 columns that are displayed in Jupyter I cannot see in Excel
-
 •	Should we translate the colours from Excel to a column?
 
 •	Last 25 rows are NaNs
 
-•	Column "Case Number" and "Case Number.1" Always the same data? Then 	delete one of them
+•	Column "Case Number" and "Case Number.1" Always the same data? Then 	delete one of them (Case Number has one more value)
 
-•	Columns "Unnamed:21" and "Unnamed:22" are completely empty? Delete 	both
+•	what is column "Unnamed: 11"? It has a lot of data, seems to be yes/no input
 
-•	date Format Needs to be synchronized
+•	time, species and age have a lot of NaN (almost or more than half)
+
+•	Columns "Unnamed:21" and "Unnamed:22" are completely empty? Delete 	both (almost completely empty, how to find the non-null values?)
+
+•	date Format Needs to be synchronized and column "Year" can be deleted if year Always in date or otherwise include year in date and then delete "Year"
 
 •	introduce Country codes
 
-•	column "Year" can be deleted if year Always in date or otherwise include year in date and then delete "Year"
 
 •	categorize activities? Surfing, Diving, Swimming, "other Sports acitivities", Fishing/Spearfishing, Wading, Boat/Kayak, SUP/Body Boarding, "other" (better than this)
 
