@@ -1,4 +1,25 @@
-Questions/ Problems/ Observations
+QUESTION/ WHAT DO WE WANT TO FIND OUT
+
+main: what makes shark attacks more likely?
+-> how to avoid Shark attacks
+
+(if Business case, we could tell People for different regions which activities they should avoid)
+
+
+HYPOTHESES
+
+- most likely demographics to be attacked: Young and male
+- most regional attacks worlwide are in Australia
+- Surfing is the most dangerous activity in regard to the probability of attack
+	- also: most fatal attacks happened while Surfing
+- the White Shark is the single species most responsible for attacks
+- time: i.e. which month in which area?
+- tendencies: increased attack in certain areas over the years?
+
+
+
+
+DATA CLEANING
 
 •	Should we translate the colours from Excel to a column?
 
@@ -25,10 +46,4 @@ Questions/ Problems/ Observations
 
 • 	Maybe take out of analysis?: "Questionable incidents - Incidents in which there are insufficient data to determine if the injury was caused by a shark or the person drowned and the body was later scavenged by sharks. In a few cases, despite media reports to the contrary, evidence indicated there was no shark involvement whatsoever. Such incidents are in blue."
 
-Maybe interesting objectives:
-- age when attacked
-- time: i.e. which month in which area?
-- activity during attack
-- tendencies: increased attack in certain areas over the years?
-- if we clean species: which species are more responsible for attacks? and where?
 
