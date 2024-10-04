@@ -1,6 +1,6 @@
 ## Shark Quest: Team Coral Reefs
 
-<img width="620" alt="image" src="https://github.com/user-attachments/assets/9367e333-b8ba-48ce-bdf1-8f8b4c710521">
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/9367e333-b8ba-48ce-bdf1-8f8b4c710521">
 
 ## Introduction:
 
