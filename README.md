@@ -26,11 +26,11 @@ These are our HYPOTHESES, we created them from the first impression of the datas
 
 ## Findings:
 
-- Most shark attacks happen in the USA, followed by Australia
-- Surfing is the activity most dangerous in regards to the probability of being attacked by a shark. Followed by swimming and fishing.
-- The vast majority of people attacked by a shark are male, most of them are young (under 30)
-- over the past 24 years, the number of shark attacks have .....
-- fatality: xy% of shark attacks do not end fatally
+- COUNTRY: Most shark attacks happen in the USA, followed by Australia.
+- FATALITY: The fatality rate varies from country to country: i.e. in Australia 10% of the attacks ended deadly, whereas only 2.3% in the US and even 16% in South Africa  
+- ACITIVITY/ FATALITY: Surfing is the activity most dangerous in regards to the probability of being attacked by a shark. Followed by swimming and fishing. Yet the deadlist acitivity was swimming (13% of the attacks ended deadly), followed by fishing (6.8%) and only then surfing (6.3%).
+- DEMOGRAPHICS: The vast majority of people attacked by a shark are male, most of them are young (the median is 28 and 75% are under 37).
+- YEAR: Over the past 24 years, the number of shark attacks have .....
 
 ## Further information:
 
